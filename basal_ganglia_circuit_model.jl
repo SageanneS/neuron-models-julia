@@ -1,4 +1,4 @@
-## Backend script for the motor circuit (CBGTC Loop)
+## Cortico-Basal-Ganglia-Thalamo-Cortical (CBGTC) Circuit Model
 
 using ModelingToolkit, DifferentialEquations, Plots
 
